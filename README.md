@@ -40,8 +40,6 @@ SOFTWARE.
 * We will start with HTML, CSS, JS and upgrade it to ReactJS
 
 ## Questions
-You can get in touch with me through:
-
 * Email: truong.duong1908@gmail.com
 
 * LinkedIn: https://www.linkedin.com/in/truongduong/
